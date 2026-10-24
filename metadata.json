@@ -1,0 +1,8 @@
+{
+  "name": "CyberTutor AI",
+  "description": "An intelligent cybersecurity, digital literacy, computer troubleshooting, and practical tech teaching agent powered by Gemma 4 with local Ollama fallback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
